@@ -2,7 +2,7 @@
     "name": "moay/fints-db",
     "description": "Fints db as json file",
     "type": "library",
-    "license": "CC-0",
+    "license": "CC0-1.0",
     "authors": [
         {
             "name": "moay",
